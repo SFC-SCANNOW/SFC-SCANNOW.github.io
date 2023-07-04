@@ -1,4 +1,4 @@
-# SFC SCANNOW
+# SFC scannow
 
 
 
